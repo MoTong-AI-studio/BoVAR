@@ -1,6 +1,6 @@
 # BoVAR: Learning Adaptive Routing and Hierarchical Attention for Variable-Aperture Bokeh Rendering
 
-Kang Chen, ShijunYan, Aiwen Jiang, Zhifeng Wang, Long Peng, Qiuhai Yan, Zhiwei Chen
+Kang Chen, ShijunYan, Zhifeng Wang, Aiwen Jiang
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
 
